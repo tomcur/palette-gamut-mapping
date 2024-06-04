@@ -1,6 +1,6 @@
 [package]
 name = "palette-gamut-mapping"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Thomas Churchman <thomas@kepow.org>"]
 description = "Convert colors between color spaces with CSS Color Module Level 4 gamut mapping"
 keywords = ["gamut", "palette", "css", "oklab", "oklch"]
