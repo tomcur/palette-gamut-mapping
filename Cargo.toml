@@ -6,7 +6,7 @@ description = "Convert colors between color spaces with CSS Color Module Level 4
 keywords = ["gamut", "palette", "css", "oklab", "oklch"]
 license = "MIT OR Apache-2.0"
 edition = "2021"
-repository = "https://github.com/tomcur/hi.nvim.rs"
+repository = "https://github.com/tomcur/palette-gamut-mapping"
 
 [dependencies]
 palette = "0.7"
